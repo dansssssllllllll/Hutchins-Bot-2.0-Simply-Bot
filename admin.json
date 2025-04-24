@@ -1,24 +1,24 @@
 {
-  "prefix": "!",
+  "prefix": "/",
   "adminUIDs": [
-    "Global Administrator UID"
+    "61554405703021"
   ],
   "moderatorUIDs": [
-    "MODERATOR UID",
+    "61554405703021",
     "",
     ""
   ],
-  "botName": "Your botName",
-  "ownerName": "Your Name",
-  "facebookLink": "Facebook link",
+  "botName": "AUTOBOT>[/]",
+  "ownerName": "Daniel",
+  "facebookLink": "Facebook.com/61554405703021",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
   "restart": true,
   "restartTime": 50,
   "loginpanel": {
-    "user": "your username on dashboard",
-    "password": "your password",
-    "passcode": "passcode but is not working for now"
+    "user": "daniel",
+    "password": "danielot",
+    "passcode": "12345"
   }
 }
